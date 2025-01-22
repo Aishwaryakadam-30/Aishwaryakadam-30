@@ -1,3 +1,5 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDJ_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif).]
+
 <h1 align="center">Hi 👋, I'm Aishwarya Kadam</h1>
 <h3 align="center">A passionate Master's student in Computer Science at the University of Texas at Arlington, specializing in software development, front-end technologies, and AI integration. Skilled in JavaScript, React, Python, and cloud platforms, with hands-on experience in building predictive models and dynamic web applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">

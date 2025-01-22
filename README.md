@@ -1,55 +1,29 @@
-# Hi there, I'm Aishwarya Kadam! 👋
-A passionate Master's student in Computer Science at the University of Texas at Arlington, specializing in software development, front-end technologies, and AI integration. Skilled in JavaScript, React, Python, and cloud platforms, with hands-on experience in building predictive models and dynamic web applications.
+<h1 align="center">Hi 👋, I'm Aishwarya Kadam</h1>
+<h3 align="center">A passionate Master's student in Computer Science at the University of Texas at Arlington, specializing in software development, front-end technologies, and AI integration. Skilled in JavaScript, React, Python, and cloud platforms, with hands-on experience in building predictive models and dynamic web applications.</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
-## 🚀 About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwaryakadam-30&label=Profile%20views&color=0e75b6&style=flat" alt="aishwaryakadam-30" /> </p>
 
-Here's a suitable bio you can use for your GitHub profile:
+- 🔭 I’m currently working on **Spotify_2023**
 
+- 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 Exploring new technologies and developing innovative solutions
-- 🧠 Continuously learning about AI, Big Data, and Cloud Computing
-- 👯‍♂️ Eager to collaborate on projects that push the boundaries of technology
-- 💬 Feel free to ask me about anything related to Java, Python, C++, or web technologies
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in//aishwarya-kadam-739509228/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm always ready for a new coding challenge!
+- 📫 How to reach me **kadamaishu1999@gmail.com**
 
-## 🛠 Skills
-- Software Engineering, Full Stack Development, Database Systems
-- Data Analysis, Machine Learning, Algorithms Design
-- Artificial Intelligence, Web Data Management, Cloud Computing
-- Big Data, Distributed Systems, PHP, MySQL, Python
-- OOP Design Patterns, HTML5, CSS, PHP Frameworks (Symfony2, Laravel, CakePHP, Zend)
-- Test Driven Development, Object Oriented Programming (OOP), SDLC
-- UI Development, RESTful API Development, Spring, Spring Boot
-- AWS Lambda, DynamoDB, AWS Cognito, API Gateway
-- SQL, React, Laravel, NoSQL, JavaScript, PHP, Bash, GoLang
-- SQLite, phpMyAdmin, MongoDB, Developer Tools (MongoDB, Apache, VS Code, Eclipse, Google Colab, GitHub, Android Studio)
-- Libraries (Numpy, Pandas, NLP, Image Processing, TensorFlow, Tesseract, PyTorch, Keras)
-- Cloud Services (AWS, Map Reduce, Scala, Terraform, Hive, Jenkins CI/CD)
-- Operating Systems (Windows, Linux), Web Development (EJS), React, Redux, Java Spring Boot
+- ⚡ Fun fact **- My first 'Hello World' program had a typo... and I've come a long way since then!**
 
-## 📈 My GitHub Stats
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://linkedin.com/in//aishwarya-kadam-739509228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in//aishwarya-kadam-739509228/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/kadamaishu1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/kadamaishu1999" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/aishwaryak30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aishwaryak30/" height="30" width="40" /></a>
+</p>
 
-![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aishwaryakadam-30&show_icons=true&theme=radical)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## 🎮 Gamification Modules
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aishwaryakadam-30&show_icons=true&locale=en&layout=compact" alt="aishwaryakadam-30" /></p>
 
-### 🔥 Streak Stats
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aishwarya-30&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aishwaryakadam-30&show_icons=true&locale=en" alt="aishwaryakadam-30" /></p>
 
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Aishwaryakadam-30&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-
-## 💼 Professional Experience
-- Member at [UTA Students Organization]()
-
-## 🌟 Highlighted Projects
-
-
-## 📚 Latest Blog Posts
-
-
-## 📫 How to Reach Me
-- LinkedIn: [Aishwarya Kadam](https://linkedin.com/in//aishwarya-kadam-739509228/))
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aishwaryakadam-30&" alt="aishwaryakadam-30" /></p>

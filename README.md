@@ -36,10 +36,10 @@ Here's a suitable bio you can use for your GitHub profile:
 ## 🎮 Gamification Modules
 
 ### 🔥 Streak Stats
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohit8426&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aishwarya-30&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohit8426&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Aishwaryakadam-30&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 
 ## 💼 Professional Experience
@@ -52,4 +52,4 @@ Here's a suitable bio you can use for your GitHub profile:
 
 
 ## 📫 How to Reach Me
-- LinkedIn: [Mohit Kulkarni](https://www.linkedin.com/in/mohit-kulkarni27/)
+- LinkedIn: [Aishwarya Kadam](https://linkedin.com/in//aishwarya-kadam-739509228/))

@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwaryakadam-30&label=Profile%20views&color=0e75b6&style=flat" alt="aishwaryakadam-30" /> </p>
 
-- 🔭 I’m currently working on **Spotify_2023**
+- 🔭 I’m currently working on **HR DASHBOARD**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Tableau**
 
 - 📫 How to reach me **kadamaishu1999@gmail.com**
 

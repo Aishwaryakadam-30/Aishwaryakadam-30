@@ -6,6 +6,12 @@
 - 📫 How to reach me **a.kadam0830@gmail.com**
 
 - ⚡ Fun fact **My first 'Hello World' program had a typo... and I've come a long way since then!**
+   📊 SQL query optimization & data transformation  
+  🐍 Python automation (Pandas, NumPy)  
+  🔄 ETL workflows & data pipeline improvement  
+  📈 Power BI & Tableau dashboard development  
+  📌 KPI tracking, trend analysis & forecasting  
+  🗄 Data modeling & database management  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

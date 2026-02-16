@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aishwarya Kadam</h1>
 <h3 align="center">I build clean, structured datasets and automated reporting systems that help teams make confident, data-driven decisions.</h3>
 
-- 👨‍💻 All of my projects are available at [aishwaryakadam909.wixsite.com](aishwaryakadam909.wixsite.com)
+- 👨‍💻 All of my projects are available at [aishwaryakadam909.wixsite.com](https://aishwaryakadam909.wixsite.com)
 
 - 📫 How to reach me **a.kadam0830@gmail.com**
 

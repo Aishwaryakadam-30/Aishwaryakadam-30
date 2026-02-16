@@ -1,3 +1,10 @@
+<table>
+  <tr>
+    <td width="35%">
+      <img src="https://raw.githubusercontent.com/Aishwaryakadam-30/Aishwaryakadam-30/main/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="working gif" />
+    </td>
+    <td width="65%">
+
 <h1 align="center">Hi 👋, I'm Aishwarya Kadam</h1>
 <h3 align="center">
 I build clean, structured datasets and automated reporting systems that help teams make confident, data-driven decisions.

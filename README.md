@@ -1,25 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aishwarya Kadam</h1>
-<h3 align="center">Data Analyst | SQL • Python • Power BI • ETL | MS Computer Science @ UTA</h3>
+<h3 align="center">I build clean, structured datasets and automated reporting systems that help teams make confident, data-driven decisions.</h3>
 
-<p align="center">
-  <img src="[https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif](https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif]" width="350"/>
-</p>
+- 👨‍💻 All of my projects are available at [aishwaryakadam909.wixsite.com](https://aishwaryakadam909.wixsite.com)
 
----
+- 📫 How to reach me **a.kadam0830@gmail.com**
 
-## 👩‍💻 About Me
-
-I build clean, structured datasets and automated reporting systems that help teams make confident, data-driven decisions.
-
-- 📊 Skilled in SQL query optimization & data transformation  
-- 🐍 Python (Pandas, NumPy) for automation & analysis  
-- 📈 Power BI & Tableau dashboard development  
-- 🔄 ETL workflows & reporting automation  
-- 📌 KPI tracking, forecasting & business insights  
-
-
-- ⚡ Fun fact **- My first 'Hello World' program had a typo... and I've come a long way since then!**
-
+- ⚡ Fun fact **My first 'Hello World' program had a typo... and I've come a long way since then!**
+   📊 SQL query optimization & data transformation  
+  🐍 Python automation (Pandas, NumPy)  
+  🔄 ETL workflows & data pipeline improvement  
+  📈 Power BI & Tableau dashboard development  
+  📌 KPI tracking, trend analysis & forecasting  
+  🗄 Data modeling & database management  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in//aishwarya-kadam-739509228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in//aishwarya-kadam-739509228/" height="30" width="40" /></a>

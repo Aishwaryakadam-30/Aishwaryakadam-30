@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Tableau**
 
-- 📫 How to reach me **kadamaishu1999@gmail.com**
+- 📫 How to reach me **a.kadam0830@gmail.com**
 
 - ⚡ Fun fact **- My first 'Hello World' program had a typo... and I've come a long way since then!**
 

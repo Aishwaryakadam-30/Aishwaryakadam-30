@@ -1,26 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aishwarya Kadam</h1>
 <h3 align="center">I build clean, structured datasets and automated reporting systems that help teams make confident, data-driven decisions.</h3>
 
-- 👨‍💻 All of my projects are available at [aishwaryakadam909.wixsite.com/aish](aishwaryakadam909.wixsite.com/aish)
+- 👨‍💻 All of my projects are available at [aishwaryakadam909.wixsite.com](aishwaryakadam909.wixsite.com)
 
 - 📫 How to reach me **a.kadam0830@gmail.com**
 
 - ⚡ Fun fact **My first 'Hello World' program had a typo... and I've come a long way since then!**
 
-  📊 Skilled in SQL query optimization & data transformation  
-  🐍 Python (Pandas, NumPy) for automation & analysis  
-  📈 Power BI & Tableau dashboard development  
-  🔄 ETL workflows & reporting automation  
-  📌 KPI tracking, forecasting & business insights  
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aishwarya-kadam-739509228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aishwarya-kadam-739509228" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/aish0830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/aish0830" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/kadamaishu1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/kadamaishu1999" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/aishwaryak30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aishwaryak30/" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/76013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="76013" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

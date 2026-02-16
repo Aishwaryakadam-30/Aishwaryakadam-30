@@ -49,11 +49,8 @@ I build clean, structured datasets and automated reporting systems that help tea
 
 ---
 
-<p align="left">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aishwaryakadam-30&show_icons=true&locale=en" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishwaryakadam-30" />

@@ -1,14 +1,21 @@
-<h1 align="center">Hi 👋, I'm Aishwarya Kadam</h1>
-<h3 align="center">A passionate Master's student in Computer Science at the University of Texas at Arlington, specializing in software development, front-end technologies, and AI integration. Skilled in JavaScript, React, Python, and cloud platforms, with hands-on experience in building predictive models and dynamic web applications.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+# Hi 👋 I'm Aishwarya Kadam  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwaryakadam-30&label=Profile%20views&color=0e75b6&style=flat" alt="aishwaryakadam-30" /> </p>
+**Data Analyst | SQL • Python • Power BI • ETL | MS Computer Science @ UTA**
 
-- 🔭 I’m currently working on **HR DASHBOARD**
+I build clean, structured datasets and automated reporting systems that help teams make confident, data-driven decisions.
 
-- 🌱 I’m currently learning **Tableau**
+I focus on transforming raw data into insight-ready dashboards, optimizing SQL queries, and improving reporting workflows through automation and structured analytics.
 
-- 📫 How to reach me **a.kadam0830@gmail.com**
+---
+
+## 🔍 What I Do
+
+- 📊 SQL query optimization & data transformation  
+- 🐍 Python automation (Pandas, NumPy)  
+- 🔄 ETL workflows & data pipeline improvement  
+- 📈 Power BI & Tableau dashboard development  
+- 📌 KPI tracking, trend analysis & forecasting  
+- 🗄 Data modeling & database management  
 
 - ⚡ Fun fact **- My first 'Hello World' program had a typo... and I've come a long way since then!**
 

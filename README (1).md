@@ -7,6 +7,14 @@
 
 - ⚡ Fun fact **My first 'Hello World' program had a typo... and I've come a long way since then!**
 
+- - 📊 Skilled in SQL query optimization & data transformation  
+- 🐍 Python (Pandas, NumPy) for automation & analysis  
+- 📈 Power BI & Tableau dashboard development  
+- 🔄 ETL workflows & reporting automation  
+- 📌 KPI tracking, forecasting & business insights  
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aishwarya-kadam-739509228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aishwarya-kadam-739509228" height="30" width="40" /></a>

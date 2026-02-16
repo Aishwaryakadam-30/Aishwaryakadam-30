@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | SQL • Python • Power BI • ETL | MS Computer Science @ UTA</h3>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif](https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif)" width="350"/>
+  <img src="[https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif](https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif]" width="350"/>
 </p>
 
 ---

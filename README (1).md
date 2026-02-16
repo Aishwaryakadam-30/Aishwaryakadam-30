@@ -5,14 +5,7 @@
 I build clean, structured datasets and automated reporting systems that help teams make confident, data-driven decisions.
 </h3>
 
-    <td width="35%" align="center">
-      <img 
-        src="https://raw.githubusercontent.com/Aishwaryakadam-30/Aishwaryakadam-30/main/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif"
-        width="200"
-        alt="Working GIF" />
-    </td>
-  </tr>
-</table>
+   
 <p align="center">
   <a href="https://www.linkedin.com/in/aishwaryakadam30/" target="_blank">LinkedIn</a> •
   <a href="https://github.com/Aishwaryakadam-30" target="_blank">GitHub</a> •

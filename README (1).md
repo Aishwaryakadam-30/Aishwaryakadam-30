@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **My first 'Hello World' program had a typo... and I've come a long way since then!**
 
-- - 📊 Skilled in SQL query optimization & data transformation  
+- 📊 Skilled in SQL query optimization & data transformation  
 - 🐍 Python (Pandas, NumPy) for automation & analysis  
 - 📈 Power BI & Tableau dashboard development  
 - 🔄 ETL workflows & reporting automation  

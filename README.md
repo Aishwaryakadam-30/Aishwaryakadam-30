@@ -1,21 +1,22 @@
-# Hi 👋 I'm Aishwarya Kadam  
+<h1 align="center">Hi 👋, I'm Aishwarya Kadam</h1>
+<h3 align="center">Data Analyst | SQL • Python • Power BI • ETL | MS Computer Science @ UTA</h3>
 
-**Data Analyst | SQL • Python • Power BI • ETL | MS Computer Science @ UTA**
-
-I build clean, structured datasets and automated reporting systems that help teams make confident, data-driven decisions.
-
-I focus on transforming raw data into insight-ready dashboards, optimizing SQL queries, and improving reporting workflows through automation and structured analytics.
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="350"/>
+</p>
 
 ---
 
-## 🔍 What I Do
+## 👩‍💻 About Me
 
-- 📊 SQL query optimization & data transformation  
-- 🐍 Python automation (Pandas, NumPy)  
-- 🔄 ETL workflows & data pipeline improvement  
+I build clean, structured datasets and automated reporting systems that help teams make confident, data-driven decisions.
+
+- 📊 Skilled in SQL query optimization & data transformation  
+- 🐍 Python (Pandas, NumPy) for automation & analysis  
 - 📈 Power BI & Tableau dashboard development  
-- 📌 KPI tracking, trend analysis & forecasting  
-- 🗄 Data modeling & database management  
+- 🔄 ETL workflows & reporting automation  
+- 📌 KPI tracking, forecasting & business insights  
+
 
 - ⚡ Fun fact **- My first 'Hello World' program had a typo... and I've come a long way since then!**
 
